@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barathraj R</h1>
-<h3 align="center">A passionate coder........</h3>
+<h3 align="center">A Data science engineer........</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barathraj1032&label=Profile%20views&color=0e75b6&style=flat" alt="barathraj1032" /> </p>
 
